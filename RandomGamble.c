@@ -1,4 +1,4 @@
-//this program simulates gambling
+//This program simulates gambling.
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
